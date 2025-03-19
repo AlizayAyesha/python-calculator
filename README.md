@@ -1,4 +1,4 @@
-# 🧮 Python Scientific Calculator
+# 🧮 Python Calculator
 
 A fully-featured scientific calculator built with Python, offering both CLI and GUI interfaces.
 
