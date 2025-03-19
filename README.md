@@ -1,6 +1,6 @@
 # 🧮 Python Calculator
 
-A fully-featured scientific calculator built with Python, offering both CLI and GUI interfaces.
+A fully-featured calculator built with Python, offering both CLI and GUI interfaces.
 
 ![image](https://github.com/user-attachments/assets/e5aed7d9-c087-469b-acf7-02e71dc7c488)
 
