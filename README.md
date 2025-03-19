@@ -2,12 +2,11 @@
 
 A fully-featured scientific calculator built with Python, offering both CLI and GUI interfaces.
 
-![Calculator Screenshot](screenshots/calculator.png)
+![image](https://github.com/user-attachments/assets/e5aed7d9-c087-469b-acf7-02e71dc7c488)
 
 ## ✨ Features
 
 - 🔢 Basic arithmetic operations (add, subtract, multiply, divide)
-- 📊 Scientific functions (sin, cos, tan, log, ln, factorial)
 - 💾 Memory operations (store, recall, add, subtract, clear)
 - 🧠 Last result tracking for chained operations
 - 🌙 Dark theme with customizable UI
